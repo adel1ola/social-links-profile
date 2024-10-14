@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
+- Solution URL: [GitHub](https://social-links-profile-ochre-phi.vercel.app/)
 - Live Site URL: [Social Links Profile](https://your-live-site-url.com)
 
 ## My process
